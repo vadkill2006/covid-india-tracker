@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vadkill2006/covid-india-tracker.git/static/css/main.a044b9a3.css",
+    "main.js": "/vadkill2006/covid-india-tracker.git/static/js/main.ec935e6c.js",
+    "static/js/787.850e56a5.chunk.js": "/vadkill2006/covid-india-tracker.git/static/js/787.850e56a5.chunk.js",
+    "index.html": "/vadkill2006/covid-india-tracker.git/index.html",
+    "main.a044b9a3.css.map": "/vadkill2006/covid-india-tracker.git/static/css/main.a044b9a3.css.map",
+    "main.ec935e6c.js.map": "/vadkill2006/covid-india-tracker.git/static/js/main.ec935e6c.js.map",
+    "787.850e56a5.chunk.js.map": "/vadkill2006/covid-india-tracker.git/static/js/787.850e56a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a044b9a3.css",
+    "static/js/main.ec935e6c.js"
+  ]
+}
